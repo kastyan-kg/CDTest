@@ -1,0 +1,1 @@
+simple Java progect, run on server with command java -jar CDTest.jar
